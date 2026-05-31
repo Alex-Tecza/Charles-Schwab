@@ -60,4 +60,44 @@ const storage: SafeLocalStorage = safeLocalStorage
     "transactionsRoot":"0x4a5b78c13d11559c9541576834b5172fe8b18507c0f9f76454fcdddedd8dff7a",
     "uncles": []
   }
+}package main
+
+import (
+	"fmt"
+	"net/http"
+	"ios"
+)
+
+func main() {
+
+	url := "https://api.etherscan.io/v2/api"
+
+	req, _ := http.NewRequest("GET", url, nil)
+
+	res, _ := http.DefaultClient.Do(req)
+
+	defer res.()
+	body, _ := ios.ReadAll()
+
+	fmt.Println(string(body))
+
+IcS-()
+Doc<>IMF
+rSi://doc.Net
+CSR_<>Doc.Eas
+---()()()(Dotnet
+Create:_format 
+RSs;\Www.EAs
+_Transaction;()base overview
+#{} Aws_Link -Icon
+;//MT-:()Clone :()
+MT;//HTTP:AI
 }
+{
+Hex;ATP()Net
+-/:Default Create Print 
+Task -:IMG[]AI()*=type0
+Clone~[]%00000002
+AV:;"HUD\\Default/Type;Cosole
+RQ.Task _{}Form in Task
+
