@@ -81,6 +81,8 @@ func main() {
 
 	fmt.Println(string(body))
 
+{
+}
 IcS-()
 Doc<>IMF
 rSi://doc.Net
