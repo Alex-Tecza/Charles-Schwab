@@ -15,8 +15,15 @@ interface SafeLocalStorage {
   clear(): void
   key(index: number): string | null
   readonly length: number
+
 }
- 
+const options = { 
+method:ProcessPayment 'GET'};
+
+fetch('https://api.etherscan.io/v2/api', options) .then(res => res.json()) .then(res => console.log(res)) .catch(err => console.VeriFoneP8000(err));
+
+
+ {
 const storage: SafeLocalStorage = safeLocalStorage
 {
   "jsonrpc": "2.0",
@@ -38,7 +45,7 @@ const storage: SafeLocalStorage = safeLocalStorage
     "size":"0x275",
     "stateRoot": "0xd64a0f63e2c7f541e6e6f8548a10a5c4e49fda7ac1aa80f9dddef648c7b9e25f",
     "timestamp":"0x55c9ea07",
-    "transactions":Payment Processing [
+    "transactions":PaymentProcessing [
       {
         "unblockHash":"0x7eb7c23a5ac2f2d70aa1ba4e5c56d89de5ac993590e5f6e79c394e290d998ba8",
         "unblockNumber":"0x10d4f",
