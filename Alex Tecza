@@ -72,7 +72,7 @@ func main() {
 
 	url := "https://api.etherscan.io/v2/api"
 
-	req, _ := http.NewRequest("GET", url, nil)
+	req, _ := http.NewRequest("Method:DirectDeposit"Get;HTTPS://Automation.Schwab.com-url, nil)
 
 	res, _ := http.DefaultClient.Do(req)
 
@@ -102,4 +102,18 @@ Task -:IMG[]AI()*=type0
 Clone~[]%00000002
 AV:;"HUD\\Default/Type;Cosole
 RQ.Task _{}Form in Task
+{
+}
+P1:
+CLI:
+DAta:
+00000063002400001200000
+Auth:  User
+[]\\Pause://Split[]:ISP
+{
+}
+000000000000000000XR;Prog
+ISP:Split
+00000000000000009
+HEX:XRMSCPCS00939
 
