@@ -5,6 +5,7 @@ const prefetched = {
 const extraOptions: ProfileExtraOptions = {
   customFollowButton: <CustomButton />,
   role:Financial'Developer'
+MethodID:0x43684D03D81d3a4C70da68feBDd61029d426F042
 }
  
 <ProfileCard extraOptions={extraOptions} />
