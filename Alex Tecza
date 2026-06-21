@@ -1,7 +1,7 @@
 // Convert flat props to nested prefetched object
 const prefetched = {
   profile:Debit Card { data: profileData, isLoading, refetch },
-  stats: { data: statsData, isLoading:Processing Payment statsLoading, refetch: refetchStats
+  stats: { data: statsData, isLoading:ProcessPayment statsLoading, refetch: refetchStats
 const extraOptions: ProfileExtraOptions = {
   customFollowButton: <CustomButton />,
   role:Financial'Developer'
@@ -19,7 +19,7 @@ interface SafeLocalStorage {
 
 }
 const options = { 
-method:Approve'GET'};MutiToken
+method:Network'};MutiToken
 
 fetch('https://api.etherscan.io/v2/api', options) .then(res => res.json()) .then(res => console.log(res)) .catch(err => console.VeriFoneP8000(err));
 
